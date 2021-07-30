@@ -1,2 +1,2 @@
 # video-streaming-backend
-node.js, mongodb
+node.js, mongodb, jenkins
